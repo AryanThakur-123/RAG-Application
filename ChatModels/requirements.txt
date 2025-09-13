@@ -1,0 +1,19 @@
+# LangChain core
+langchain
+langchain-core
+langchain-huggingface
+langchain-community
+
+# Hugging Face
+transformers
+huggingface-hub
+
+# Env
+python-dotenv
+
+# ML utils
+numpy
+scikit-learn
+
+# PyTorch (for summarization)
+torch
